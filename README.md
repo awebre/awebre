@@ -1,5 +1,5 @@
 ### Hey, I'm Austin!
 
-- 🔭 I’m currently working on [Commutr V2](https://github.com/usecasepod/commutr_v2)
-- 🌱 I’m currently learning F# and MVU!
+- 📍 I'm currently focusing on improving [LA Historical Markers](https://github.com/awebre/la-historical-markers)
+- 🌱 I’m interested in learning F#, MVU, and other functional things!
 - ⚡ Fun fact: I have a podcast! Check us out at [usecasepod.github.io](https://usecasepod.github.io)
